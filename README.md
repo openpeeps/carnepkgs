@@ -161,7 +161,7 @@ command; the manual route below is the whole process.
 
 ### Step 1. Put your package in a public git repo
 
-Any public host that serves git over HTTPS works (GitHub recommended).
+Any public host that serves git over HTTPS works.
 
 ### Step 2. Add a `package.json` manifest at the repo root
 
