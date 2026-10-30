@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "name": "concarne",
+    "url": "https://github.com/georgelemon/concarne",
+    "method": "git",
+    "tags": [
+      "carne",
+      "http",
+      "framework",
+      "express",
+      "server",
+      "powpow"
+    ],
+    "description": "Express-like web application framework for Carne",
+    "license": "MIT",
+    "web": "https://github.com/georgelemon/concarne"
+  }
+]
